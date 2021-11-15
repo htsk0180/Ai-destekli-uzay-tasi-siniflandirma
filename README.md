@@ -5,4 +5,4 @@ Eğitim ve test verisini https://nasadata.blob.core.windows.net/nasarocks/Data.z
 Kullanılan cihazın donanımsal özellikleri ve test verisinin iyileştirilmesi ile 100/99 oranında başarı elde edilebildiğini gördük.
 Modeli export ederek tüm cihazlar üzerinde kullanılabilir hale getirdik.
 
-LÜtfen aklınıza takılan noktalarda destek almak için iletişime geçin.
+Lütfen aklınıza takılan noktalarda destek almak için iletişime geçin.
